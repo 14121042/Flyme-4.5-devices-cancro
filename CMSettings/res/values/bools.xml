@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="has_dock_settings">false</bool>
+    <bool name="has_silent_mode">true</bool>
+    <bool name="has_powercontrol_widget">true</bool>
+    <bool name="config_additional_system_update_setting_enable">false</bool>
+    <bool name="auto_confirm_bluetooth_activation_dialog">false</bool>
+    <bool name="config_show_regulatory_info">false</bool>
+    <bool name="config_show_mobile_plan">true</bool>
+    <bool name="config_eap_sim_function">false</bool>
+    <bool name="def_battery_light_enabled">true</bool>
+    <bool name="def_battery_light_pulse">true</bool>
+    <bool name="config_msid_enable">false</bool>
+    <bool name="config_allow_edit_carrier_enabled">false</bool>
+    <bool name="config_show_sar_enable">false</bool>
+    <bool name="config_show_ic_enable">false</bool>
+    <bool name="config_displayDeviceName">false</bool>
+    <bool name="config_showWifiApPasswordDefault">false</bool>
+    <bool name="config_hide_app_install_location">true</bool>
+    <bool name="config_hardcodeDefaultMobileNetworks">false</bool>
+    <bool name="config_disablePreferredNetworkSwitch">false</bool>
+    <bool name="config_gcf_disable_default_tabtext_allcaps">false</bool>
+</resources>

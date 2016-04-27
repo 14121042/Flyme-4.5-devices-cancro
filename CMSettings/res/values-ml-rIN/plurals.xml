@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="backlight_timeout_time">
+        <item quantity="other">%d സെക്കന്റ്</item>
+        <item quantity="one">%d സെക്കന്റ്</item>
+    </plurals>
+    <plurals name="app_ops_count">
+        <item quantity="other">%d പ്രാവശ്യം</item>
+        <item quantity="one">ഒരിക്കല്</item>
+    </plurals>
+    <plurals name="qs_tiles_summary">
+        <item quantity="other">%d ടൈലുകൾ ക്രമീകരിക്കുക</item>
+        <item quantity="one">1 ടൈൽ ക്രമീകരിക്കുക</item>
+    </plurals>
+    <plurals name="show_dev_countdown_cm">
+        <item quantity="other">ഡെവലപ്പ്മെന്റ് ക്രമീകരണങ്ങൾ പ്രാപ്തമാക്കുന്നതിന് നിങ്ങള്‍ %1$d ഘട്ടങ്ങൾ അകലെയാണ്.</item>
+        <item quantity="one">ഡെവലപ്പ്മെന്റ് ക്രമീകരണങ്ങൾ പ്രാപ്തമാക്കുന്നതിന് നിങ്ങള്‍ %1$d ഘട്ടം അകലെയാണ്.</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">ഒരു ഡവലപ്പറായിത്തീരുന്നതിന് നിങ്ങൾ %1$d ചുവടുകൾ മാത്രം അകലെയാണ്.</item>
+        <item quantity="one">ഒരു ഡവലപ്പറായിത്തീരുന്നതിന് നിങ്ങൾ %1$d ചുവട് മാത്രം അകലെയാണ്.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">പാസ്‌വേഡിൽ %d അക്ഷരങ്ങളെങ്കിലും ഉണ്ടായിരിക്കണം.</item>
+        <item quantity="one">പാസ്‌വേഡിൽ ഒരു അക്ഷരമെങ്കിലും ഉണ്ടായിരിക്കണം.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">പാസ്‌വേഡിൽ %d ചെറിയക്ഷരങ്ങളെങ്കിലും ഉണ്ടായിരിക്കണം.</item>
+        <item quantity="one">പാസ്‌വേഡിൽ ഒരു ചെറിയക്ഷരമെങ്കിലും ഉണ്ടായിരിക്കണം.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">പാസ്‌വേഡിൽ %d വലിയക്ഷരങ്ങളെങ്കിലും ഉണ്ടായിരിക്കണം.</item>
+        <item quantity="one">പാസ്‌വേഡിൽ ഒരു വലിയക്ഷരമെങ്കിലും ഉണ്ടായിരിക്കണം.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">പാസ്‌വേഡിൽ %d സംഖ്യകളെങ്കിലും ഉണ്ടായിരിക്കണം.</item>
+        <item quantity="one">പാസ്‌വേഡിൽ ഒരു അക്കമെങ്കിലും ഉണ്ടായിരിക്കണം.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">പാസ്‌വേഡിൽ %d പ്രത്യേക ചിഹ്നങ്ങളെങ്കിലും ഉണ്ടായിരിക്കണം.</item>
+        <item quantity="one">പാസ്‌വേഡിൽ ഒരു പ്രത്യേക ചിഹ്നമെങ്കിലും ഉണ്ടായിരിക്കണം.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">പാസ്‌വേഡിൽ അക്ഷരമല്ലാത്ത %d പ്രതീകങ്ങളെങ്കിലും ഉണ്ടായിരിക്കണം.</item>
+        <item quantity="one">പാസ്‌വേഡിൽ അക്ഷരമല്ലാത്ത ഒരു പ്രതീകമെങ്കിലും ഉണ്ടായിരിക്കണം.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">തെറ്റായ സിം പിൻ കോഡ്, നിങ്ങൾക്ക് %d ശ്രമങ്ങൾ കൂടി ബാക്കിയുണ്ട്.</item>
+        <item quantity="one">തെറ്റായ സിം പിൻ കോഡ്, നിങ്ങളുടെ ഉപകരണം അൺലോക്കുചെയ്യാൻ നിങ്ങളുടെ സേവനദാതാവുമായി ബന്ധപ്പെടുന്നതിന് മുമ്പായി നിങ്ങൾക്ക് %d ശ്രമം കൂടി ബാക്കിയുണ്ട്.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d അപ്ലിക്കേഷനുകൾക്ക് അറിയിപ്പുകൾ റീഡുചെയ്യാനാകും</item>
+        <item quantity="one">%d അപ്ലിക്കേഷന് അറിയിപ്പുകൾ റീഡുചെയ്യാനാകും</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">%d അപ്ലിക്കേഷനുകൾ നൽകുന്ന കണ്ടീഷനുകൾ</item>
+        <item quantity="one">%d അപ്ലിക്കേഷൻ കണ്ടീഷനുകൾ അനുവദിക്കുന്നു</item>
+    </plurals>
+</resources>

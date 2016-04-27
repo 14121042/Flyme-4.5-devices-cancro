@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="backlight_timeout_time">
+        <item quantity="other">%d segundos</item>
+        <item quantity="one">%d segundo</item>
+    </plurals>
+    <plurals name="app_ops_count">
+        <item quantity="other">%d vezes</item>
+        <item quantity="one">uma vez</item>
+    </plurals>
+    <plurals name="qs_tiles_summary">
+        <item quantity="other">%d botões definidos</item>
+        <item quantity="one">1 botão definido</item>
+    </plurals>
+    <plurals name="show_dev_countdown_cm">
+        <item quantity="other">Você está a %1$d passos de ativar as configurações de desenvolvedor.</item>
+        <item quantity="one">Você está a %1$d passo de ativar as configurações de desenvolvedor.</item>
+    </plurals>
+</resources>

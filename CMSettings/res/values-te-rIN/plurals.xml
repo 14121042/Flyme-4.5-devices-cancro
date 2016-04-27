@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="backlight_timeout_time">
+        <item quantity="other">%d సెకనులు</item>
+        <item quantity="one">%d సెకను</item>
+    </plurals>
+    <plurals name="app_ops_count">
+        <item quantity="other">%d సార్లు</item>
+        <item quantity="one">ఒకసారి</item>
+    </plurals>
+    <plurals name="qs_tiles_summary">
+        <item quantity="other">%d టైళ్ళు కాన్ఫిగర్ చేయబడ్డాయి</item>
+        <item quantity="one">1 టైల్ కాన్ఫిగర్ చేయబడింది</item>
+    </plurals>
+    <plurals name="show_dev_countdown_cm">
+        <item quantity="other">డెవలప్మెంట్ సెట్టింగులను ప్రారంభించడానికి ఇప్పుడు మీరు %1$d అడుగుల దూరంలో ఉన్నారు.</item>
+        <item quantity="one">డెవలప్మెంట్ సెట్టింగులను ప్రారంభించడానికి ఇప్పుడు మీరు %1$d అడుగు దూరంలో ఉన్నారు.</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">మీరు ఇప్పుడు డెవలపర్ కావడానికి %1$d అడుగుల దూరంలో ఉన్నారు.</item>
+        <item quantity="one">మీరు ఇప్పుడు డెవలపర్ కావడానికి %1$d అడుగు దూరంలో ఉన్నారు.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">పాస్‌వర్డ్ తప్పనిసరిగా కనీసం %d అక్షరాలను కలిగి ఉండాలి.</item>
+        <item quantity="one">పాస్‌వర్డ్ తప్పనిసరిగా కనీసం 1 అక్షరాన్ని కలిగి ఉండాలి.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">పాస్‌వర్డ్ తప్పనిసరిగా కనీసం %d లోయర్‌కేస్ అక్షరాలను కలిగి ఉండాలి.</item>
+        <item quantity="one">పాస్‌వర్డ్ తప్పనిసరిగా కనీసం 1 లోయర్‌కేస్ అక్షరాన్ని కలిగి ఉండాలి.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">పాస్‌వర్డ్ తప్పనిసరిగా కనీసం %d అప్పర్‌కేస్ అక్షరాలను కలిగి ఉండాలి.</item>
+        <item quantity="one">పాస్‌వర్డ్ తప్పనిసరిగా కనీసం 1 అప్పర్‌కేస్ అక్షరాన్ని కలిగి ఉండాలి.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">పాస్‌వర్డ్ తప్పనిసరిగా కనీసం 1 సంఖ్యాత్మక అంకెలను కలిగి ఉండాలి.</item>
+        <item quantity="one">పాస్‌వర్డ్ తప్పనిసరిగా కనీసం 1 సంఖ్యాత్మక అంకెను కలిగి ఉండాలి.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">పాస్‌వర్డ్ తప్పనిసరిగా కనీసం %d ప్రత్యేక చిహ్నాలను కలిగి ఉండాలి.</item>
+        <item quantity="one">పాస్‌వర్డ్ తప్పనిసరిగా కనీసం 1 ప్రత్యేక చిహ్నాన్ని కలిగి ఉండాలి.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">పాస్‌వర్డ్ తప్పనిసరిగా కనీసం %d అక్షరేతర గుర్తులను కలిగి ఉండాలి.</item>
+        <item quantity="one">పాస్‌వర్డ్ తప్పనిసరిగా కనీసం 1 అక్షరేతర గుర్తును కలిగి ఉండాలి.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">సిమ్ పిన్ కోడ్ చెల్లదు, మీకు %d ప్రయత్నాలు మిగిలి ఉన్నాయి.</item>
+        <item quantity="one">సిమ్ పిన్ కోడ్ చెల్లదు, మీరు మీ పరికరాన్ని అన్‌లాక్ చేయడానికి తప్పనిసరిగా మీ క్యారియర్‌ను సంప్రదించడానికి ముందు మీకు %d ప్రయత్నం మిగిలి ఉంది.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d అనువర్తనాలు నోటిఫికేషన్‌లను చదవగలవు</item>
+        <item quantity="one">%d అనువర్తనం నోటిఫికేషన్‌లను చదవగలదు</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">%d అనువర్తనాలు షరతులను అందిస్తాయి</item>
+        <item quantity="one">%d అనువర్తనం షరతులను అందిస్తుంది</item>
+    </plurals>
+</resources>

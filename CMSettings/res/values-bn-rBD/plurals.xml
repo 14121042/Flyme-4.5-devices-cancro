@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="backlight_timeout_time">
+        <item quantity="other">%d সেকেন্ড</item>
+        <item quantity="one">%d সেকেন্ড</item>
+    </plurals>
+    <plurals name="app_ops_count">
+        <item quantity="other">%d বার</item>
+        <item quantity="one">একবার</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">একজন বিকাশকারী হওয়া থেকে আপনি এখন %1$d পদক্ষেপ দূরে রয়েছেন৷</item>
+        <item quantity="one">একজন বিকাশকারী হওয়া থেকে আপনি এখন %1$d পদক্ষেপ দূরে রয়েছেন৷</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">পাসওয়ার্ডে কমপক্ষে %d টি অক্ষর থাকা আবশ্যক৷</item>
+        <item quantity="one">পাসওয়ার্ডে কমপক্ষে ১টি অক্ষর থাকা আবশ্যক৷</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">পাসওয়ার্ডে কমপক্ষে %d টি অক্ষর থাকা আবশ্যক৷</item>
+        <item quantity="one">পাসওয়ার্ডে কমপক্ষে ১টি ছোটহাতের অক্ষর থাকা আবশ্যক৷</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">পাসওয়ার্ডে কমপক্ষে %dটি বড়হাতের অক্ষর থাকা আবশ্যক৷</item>
+        <item quantity="one">পাসওয়ার্ডে কমপক্ষে ১টি বড়হাতের অক্ষর থাকা আবশ্যক৷</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">পাসওয়ার্ডে %dটি নিউমেরিক সংখ্যা থাকা আবশ্যক৷</item>
+        <item quantity="one">পাসওয়ার্ডে কমপক্ষে ১টি নিউমেরিক সংখ্যা থাকা আবশ্যক৷</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">পাসওয়ার্ডে কমপক্ষে %dটি বিশেষ চিহ্ন থাকা আবশ্যক৷</item>
+        <item quantity="one">পাসওয়ার্ডে কমপক্ষে ১টি বিশেষ চিহ্ন থাকা আবশ্যক৷</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">পাসওয়ার্ডে কমপক্ষে %d টি বর্ণ নয় এমন অক্ষর থাকা আবশ্যক৷</item>
+        <item quantity="one">পাসওয়ার্ডে কমপক্ষে ১টি বর্ণ নয় এমন অক্ষর থাকা আবশ্যক৷</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">ভুল সিম পিন কোড, আপনার কাছে আর %d বার চেষ্টা করতে পারবেন৷</item>
+        <item quantity="one">ভুল সিম পিন কোড, আপনার কাছে আর %dটি প্রচেষ্টা বাকি রয়েছে, তার পরে আপনার ডিভাইসটি আনলক করতে আপনাকে অবশ্যই আপনার ক্যারিয়ারের সাথে যোগাযোগ করতে হবে৷</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%dটি অ্যাপ্লিকেশান বিজ্ঞপ্তি পড়তে পারে</item>
+        <item quantity="one">%dটি অ্যাপ্লিকেশান বিজ্ঞপ্তি পড়তে পারে</item>
+    </plurals>
+</resources>

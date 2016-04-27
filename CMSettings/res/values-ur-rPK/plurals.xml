@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">اب آپ ایک ڈویلپر بننے سے %1$d قدم دور ہیں۔</item>
+        <item quantity="one">اب آپ ایک ڈویلپر بننے سے %1$d قدم دور ہیں۔</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">‏پاس ورڈ میں کم از کم ‎%d حروف ہونے ضروری ہیں۔</item>
+        <item quantity="one">پاس ورڈ میں کم از کم 1 حرف ہونا ضروری ہے۔</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">‏پاس ورڈ میں کم از کم ‎%d چھوٹے حروف ہونے ضروری ہیں۔</item>
+        <item quantity="one">پاس ورڈ میں کم از کم 1 چھوٹا حرف ہونا ضروری ہے۔</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">‏پاس ورڈ میں کم از کم ‎%d بڑے حروف ہونے ضروری ہیں۔</item>
+        <item quantity="one">پاس ورڈ میں کم از کم 1 بڑا حرف ہونا ضروری ہے۔</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">‏پاس ورڈ میں کم از کم ‎%d عددی ہندسے ہونے ضروری ہیں۔</item>
+        <item quantity="one">پاس ورڈ میں کم از کم 1 عددی ہندسہ ہونا ضروری ہے۔</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">‏پاس ورڈ میں کم از کم ‎%d خصوصی علامات ہونی ضروری ہیں۔</item>
+        <item quantity="one">پاس ورڈ میں کم از کم 1 خصوصی علامت ہونی ضروری ہے۔</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">‏پاسورڈ میں کم از کم ‎%d کیریکٹرز ایسے ہونے چاہئیں جو حروف نہ ہوں۔</item>
+        <item quantity="one">پاسورڈ میں کم از کم ایک کیریکٹر ایسا ہونا چاہئے جو حرف نہ ہو۔</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">‏SIM کا غلط PIN کوڈ، آپ کے پاس %d کوششیں باقی ہیں۔</item>
+        <item quantity="one">‏SIM کا غلط PIN کوڈ، اپنے آلے کو غیر مقفل کرنے کیلئے اپنے کیریئر سے رابطہ کرنے سے پہلے آپ کے پاس %d کوشش باقی بچی ہے۔</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">‏%d ایپس شرائط فراہم کرتی ہیں</item>
+        <item quantity="one">‏%d ایپ شرائط فراہم کرتی ہے</item>
+    </plurals>
+</resources>

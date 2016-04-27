@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.cyanogenmod.settings">
+    <PreferenceCategory android:title="@string/live_display_title" android:key="live_display_options">
+        <ListPreference android:persistent="false" android:title="@string/live_display_color_profile_title" android:key="live_display_color_profile" />
+        <ListPreference android:persistent="false" android:title="@string/live_display_mode" android:key="live_display" />
+        <com.android.cyanogenmod.settings.livedisplay.DisplayTemperature android:persistent="false" android:title="@string/live_display_color_temperature_title" android:key="live_display_color_temperature" android:dialogTitle="@string/live_display_title" />
+        <com.android.cyanogenmod.settings.cyanogenmod.SystemSettingSwitchPreference android:title="@string/live_display_outdoor_mode_title" android:key="display_auto_outdoor_mode" android:summary="@string/live_display_outdoor_mode_summary" android:defaultValue="true" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/advanced" android:key="advanced" settings:advanced="true">
+        <PreferenceScreen android:persistent="false" android:title="@string/screencolor" android:key="screencolor_settings" android:summary="@string/screencolor_summary" settings:advanced="true">
+            <intent android:targetPackage="com.android.cyanogenmod.settings" android:action="com.qualcomm.display.PPService" android:targetClass="com.android.cyanogenmod.settings.ScreenColorSettings" />
+        </PreferenceScreen>
+        <com.android.cyanogenmod.settings.livedisplay.DisplayColor android:persistent="false" android:title="@string/color_calibration_title" android:key="color_calibration" android:summary="@string/color_calibration_summary" android:dialogTitle="@string/color_calibration_title" settings:advanced="true" />
+        <com.android.cyanogenmod.settings.livedisplay.DisplayGamma android:persistent="false" android:title="@string/gamma_tuning_title_head" android:key="gamma_tuning" android:summary="@string/gamma_tuning_summary_head" android:dialogTitle="@string/gamma_tuning_title_head" settings:advanced="true" />
+        <com.android.cyanogenmod.settings.cyanogenmod.SystemSettingSwitchPreference android:title="@string/live_display_low_power_title" android:key="display_low_power" android:summary="@string/live_display_low_power_summary" android:defaultValue="true" settings:advanced="true" />
+        <com.android.cyanogenmod.settings.cyanogenmod.SystemSettingSwitchPreference android:title="@string/live_display_enhance_color_title" android:key="display_color_enhance" android:summary="@string/live_display_enhance_color_summary" android:defaultValue="true" settings:advanced="true" />
+    </PreferenceCategory>
+</PreferenceScreen>

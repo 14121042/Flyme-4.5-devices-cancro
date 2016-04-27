@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">अहिले तपाईँ एउटा विकासकर्ता हुनबाट %1$d पाइला टाढा हुनु हुन्छ।</item>
+        <item quantity="one">अहिले तपाईँ डेभेलपर हुनका लागि %1$d चरण टाढा हुनुहुन्छ।</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">पासवर्डमा कम्तिमा %d अक्षरहरू हुनु पर्दछ।</item>
+        <item quantity="one">पासवर्ड कम्तीमा एउटा अक्षरको हुनु पर्छ।</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">पासवर्ड कम्तिमा %d साना अक्षरहरूको हुनु पर्छ।</item>
+        <item quantity="one">पासवर्ड कम्तिमा एउटा सानो अक्षरको हुनुपर्दछ।</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">पासवर्डमा कम्तिमा %d ठूलो अक्षर हुनु पर्दछ।</item>
+        <item quantity="one">पासवर्डमा कम्तिमा १ ठूलो अक्षर हुनुपर्दछ।</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">पासवर्डमा कम्तीमा %d संख्यात्मक अङ्क हुनु पर्छ।</item>
+        <item quantity="one">पासवर्ड कम से कम १ सङ्ख्यात्मक अङ्कको हुनु पर्छ।</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">पासवर्डमा कम्तिमा %d विशेष चिन्हहरू हुनु पर्छ।</item>
+        <item quantity="one">पासवर्डमा कम्तिमा १ विशेष सिम्बोल हुनु पर्दछ।</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">पासवर्ड कम्तिमा %d गैर-अक्षरको हुनुपर्छ।</item>
+        <item quantity="one">पासवर्डमा कम्तिमा १ गैर-अक्षर वर्ण हुनु पर्दछ।</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">SIM PIN कोड गलत छ, तपाईंसँग %d बाँकी प्रयासहरू छन्।</item>
+        <item quantity="one">SIM PIN कोड गलत छ, तपाईंले अाफ्नो उपकरण खोल्नलाई तपाईंको वाहकसँग सम्पर्क गर्नै पर्दर्छ यस अघि तपाईंसँग %d प्रयासहरू बाँकी छ।</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d अनुप्रयोगहरूले सूचनाहरू पढ्न सक्छन्।</item>
+        <item quantity="one">%d अनुप्रयोगले सूचनाहरू पढ्न सक्छ</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">%d अनुप्रयोगहरूले सर्तहरू प्रदान गर्छन्</item>
+        <item quantity="one">%d अनुप्रयोगले सर्तहरू प्रदान गर्छन्</item>
+    </plurals>
+</resources>

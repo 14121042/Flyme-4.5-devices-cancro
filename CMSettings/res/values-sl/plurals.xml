@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="backlight_timeout_time">
+        <item quantity="other">%d sekund</item>
+        <item quantity="one">%d sekunda</item>
+        <item quantity="two">%d sekundi</item>
+        <item quantity="few">%d sekunde</item>
+    </plurals>
+    <plurals name="app_ops_count">
+        <item quantity="other">%d-krat</item>
+        <item quantity="one">enkrat</item>
+        <item quantity="two">%d-krat</item>
+        <item quantity="few">%d-krat</item>
+    </plurals>
+    <plurals name="qs_tiles_summary">
+        <item quantity="other">Nastavljenih %d ploščic</item>
+        <item quantity="one">Nastavljena 1 ploščica</item>
+        <item quantity="two">Nastavljeni %d ploščici</item>
+        <item quantity="few">Nastavljene %d ploščice</item>
+    </plurals>
+    <plurals name="show_dev_countdown_cm">
+        <item quantity="other">Zdaj ste %1$d korakov pred omogočanjem nastavitev za razvijalce.</item>
+        <item quantity="one">Zdaj ste %1$d korak pred omogočanjem nastavitev za razvijalce.</item>
+        <item quantity="two">Zdaj ste %1$d koraka pred omogočanjem nastavitev za razvijalce.</item>
+        <item quantity="few">Zdaj ste %1$d korake pred omogočanjem nastavitev za razvijalce.</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Št. korakov, ki vas loči od tega, da postanete razvijalec: %1$d.</item>
+        <item quantity="one">Št. korakov, ki vas loči od tega, da postanete razvijalec: %1$d.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Geslo mora imeti vsaj toliko črk: %d.</item>
+        <item quantity="one">Geslo mora imeti vsaj eno črko.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Geslo mora imeti vsaj toliko malih črk: %d.</item>
+        <item quantity="one">Geslo mora imeti vsaj eno malo črko.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Geslo mora imeti vsaj toliko velikih črk: %d.</item>
+        <item quantity="one">Geslo mora imeti vsaj eno veliko črko.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Geslo mora imeti vsaj toliko številk: %d.</item>
+        <item quantity="one">Geslo mora imeti vsaj eno številko.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Geslo mora imeti vsaj toliko posebnih znakov: %d</item>
+        <item quantity="one">Geslo mora imeti vsaj en posebni znak.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Geslo mora imeti vsaj toliko znakov, ki niso črke: %d.</item>
+        <item quantity="one">Geslo mora imeti vsaj en znak, ki ni črka.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Napačna koda PIN kartice SIM. Poskusite lahko še %d-krat.</item>
+        <item quantity="one">Napačna koda PIN kartice SIM. Na voljo imate še %d poskus. Potem se boste morali za odklenitev naprave obrniti na operaterja.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">Aplikacije (%d) lahko berejo obvestila</item>
+        <item quantity="one">Aplikacija (%d) lahko bere obvestila</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">%d aplikacije ponujajo pogoje</item>
+        <item quantity="one">%d aplikacija ponuja pogoje</item>
+    </plurals>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dashboard-categories
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.cyanogenmod.settings">
+    <dashboard-category android:id="@id/system_section" android:title="@string/header_category_system">
+        <dashboard-tile android:icon="@drawable/ic_settings_buttons" android:id="@id/button_settings" android:title="@string/button_pref_title" android:fragment="com.android.cyanogenmod.settings.ButtonSettings" />
+        <dashboard-tile android:icon="@drawable/ic_settings_sounds" android:id="@id/sound_settings" android:title="@string/category_sounds" android:fragment="com.android.cyanogenmod.settings.SoundSettings" />
+        <dashboard-tile android:icon="@drawable/ic_settings_display" android:id="@id/display_and_lights_settings" android:title="@string/display_and_lights" android:fragment="com.android.cyanogenmod.settings.DisplaySettings" />
+        <dashboard-tile android:icon="@drawable/ic_settings_battery" android:id="@id/battery_settings" android:title="@string/power_usage_summary_title" android:fragment="com.android.cyanogenmod.settings.fuelgauge.PowerUsageSummary" />
+        <dashboard-tile android:icon="@drawable/ic_settings_development" android:id="@id/development_settings" android:title="@string/development_settings_title" android:fragment="com.android.cyanogenmod.settings.DevelopmentSettings" />
+        <dashboard-tile android:icon="@drawable/ic_settings_about" android:id="@id/about_settings" android:title="@string/about_settings" android:fragment="com.android.cyanogenmod.settings.DeviceInfoSettings" />
+    </dashboard-category>
+</dashboard-categories>

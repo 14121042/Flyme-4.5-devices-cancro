@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="backlight_timeout_time">
+        <item quantity="other">%d de secunde</item>
+        <item quantity="one">%d secundă</item>
+        <item quantity="few">%d secunde</item>
+    </plurals>
+    <plurals name="app_ops_count">
+        <item quantity="other">de %d ori</item>
+        <item quantity="one">o dată</item>
+        <item quantity="few">de %d ori</item>
+    </plurals>
+    <plurals name="qs_tiles_summary">
+        <item quantity="other">%d chenare configurate</item>
+        <item quantity="one">1 chenar configurat</item>
+        <item quantity="few">%d chenare configurate</item>
+    </plurals>
+    <plurals name="show_dev_countdown_cm">
+        <item quantity="other">Ești la %1$d pași distanță de a activa opțiunile de dezvoltator.</item>
+        <item quantity="one">Ești la %1$d pas distanță de a activa opțiunile de dezvoltator.</item>
+        <item quantity="few">Ești la %1$d pași distanță de a activa opțiunile de dezvoltator.</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Mai aveți de parcurs %1$d pași pentru a deveni dezvoltator.</item>
+        <item quantity="one">Mai aveți de parcurs %1$d pas pentru a deveni dezvoltator.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Parola trebuie să conţină cel puţin %d litere.</item>
+        <item quantity="one">Parola trebuie să conţină cel puţin 1 literă.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Parola trebuie să conţină cel puţin %d minuscule.</item>
+        <item quantity="one">Parola trebuie să conţină cel puţin 1 minusculă.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Parola trebuie să conţină cel puţin %d majuscule.</item>
+        <item quantity="one">Parola trebuie să conţină cel puţin 1 majusculă.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Parola trebuie să conţină cel puţin %d cifre.</item>
+        <item quantity="one">Parola trebuie să conţină cel puţin 1 cifră.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Parola trebuie să conţină cel puţin %d simboluri speciale.</item>
+        <item quantity="one">Parola trebuie să conţină cel puţin 1 simbol special.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Parola trebuie să conţină cel puţin %d caractere care să nu fie litere.</item>
+        <item quantity="one">Parola trebuie să conţină cel puţin 1 caracter care să nu fie o literă.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Codul PIN pentru cardul SIM este incorect. V-au mai rămas %d încercări.</item>
+        <item quantity="one">Codul PIN pentru cardul SIM este incorect. V-a mai rămas %d încercare, după care va trebui să contactați operatorul pentru a vă debloca dispozitivul.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d aplicații pot citi notificările</item>
+        <item quantity="one">%d aplicație poate citi notificările</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">%d aplicații furnizează condiții</item>
+        <item quantity="one">%d aplicație furnizează condiții</item>
+    </plurals>
+</resources>

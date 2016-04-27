@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <size android:height="80.0dip" android:width="1.0dip" />
+            <solid android:color="@color/setup_wizard_header_title_background_color" />
+        </shape>
+    </item>
+</layer-list>

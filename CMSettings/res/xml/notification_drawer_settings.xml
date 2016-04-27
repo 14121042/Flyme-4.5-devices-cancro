@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/notification_drawer_title"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.cyanogenmod.settings">
+    <ListPreference android:persistent="false" android:entries="@array/quick_pulldown_entries" android:title="@string/quick_pulldown_title" android:key="quick_pulldown" android:entryValues="@array/quick_pulldown_values" />
+    <com.android.cyanogenmod.settings.cyanogenmod.SystemSettingSwitchPreference android:title="@string/status_bar_show_weather_title" android:key="status_bar_show_weather" android:summary="@string/status_bar_show_weather_summary" android:defaultValue="true" />
+    <PreferenceCategory android:title="@string/qs_category_title">
+        <PreferenceScreen android:title="@string/qs_order_title" android:key="qs_order" android:fragment="com.android.cyanogenmod.settings.cyanogenmod.qs.QSTiles" />
+        <com.android.cyanogenmod.settings.cyanogenmod.CMSecureSettingSwitchPreference android:title="@string/qs_main_tiles_title" android:key="sysui_qs_main_tiles" android:defaultValue="true" android:summaryOn="@string/qs_main_tiles_summary_on" android:summaryOff="@string/qs_main_tiles_summary_off" />
+        <com.android.cyanogenmod.settings.cyanogenmod.SecureSettingSwitchPreference android:title="@string/qs_hide_tiles_with_sensitive_data" android:key="lockscreen_hide_qs_tiles_with_sensitive_data" android:defaultValue="false" settings:advanced="true" />
+        <com.android.cyanogenmod.settings.cyanogenmod.CMSecureSettingSwitchPreference android:title="@string/qs_brightness_slider_title" android:key="qs_show_brightness_slider" android:defaultValue="true" />
+        <com.android.cyanogenmod.settings.cyanogenmod.SecureSettingSwitchPreference android:title="@string/qs_advanced_location_title" android:key="qs_location_advanced" android:summary="@string/qs_advanced_location_summary" android:defaultValue="false" />
+    </PreferenceCategory>
+</PreferenceScreen>

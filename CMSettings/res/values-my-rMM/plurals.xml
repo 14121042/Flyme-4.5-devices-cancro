@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">သင်သည် အခုဆိုရင် တည်ဆောက်သူတယောက်ဖြစ်ဖို့ %1$d အဆင့် လိုသေးသည်</item>
+        <item quantity="one">သင်သည် အခုဆိုရင် တည်ဆောက်သူတယောက်ဖြစ်ဖို့ %1$d အဆင့် လိုသေးသည်</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">စကားဝှက်တွင် အနည်းဆုံး စာလုံး %dလုံး ပါရမည်။</item>
+        <item quantity="one">စကားဝှက်တွင် အနည်းဆုံး စာလုံး ၁လုံး ပါရမည်။</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">စကားဝှက်တွင် အင်္ဂလိပ်စာလုံးအသေး အနည်းဆုံး %d လုံးပါရမည်။</item>
+        <item quantity="one">စကားဝှက်တွင် အင်္ဂလိပ်စာလုံးအသေး အနည်းဆုံး ၁လုံးပါရမည်။</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">"စကားဝှက်တွင် အင်္ဂလိပ်စာလုံးအကြီး အနည်းဆုံး  %d လုံး ပါရမည်။"</item>
+        <item quantity="one">စကားဝှက်တွင် အင်္ဂလိပ်စာလုံးအကြီး အနည်းဆုံး ၁လုံးပါရမည်။</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">"စကားဝှက်တွင် ဂဏန်း အနည်းဆုံး %d  လုံးပါရမည်။"</item>
+        <item quantity="one">စကားဝှက်တွင် အနည်းဆုံး ဂဏန်း ၁လုံး ပါရမည်။</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">"စကားဝှက်တွင် အထူးပြုသင်္ကေတ အနည်းဆုံး %d  လုံးပါရမည်။"</item>
+        <item quantity="one">စကားဝှက်တွင် အထူးပြုသင်္ကေတ အနည်းဆုံး ၁ လုံးပါရမည်။</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">စကားဝှက်တွင် စာလုံးမဟုတ်သော အက္ခရာ အနည်းဆုံး %d လုံးပါရမည်။</item>
+        <item quantity="one">စကားဝှက်တွင် စာလုံးမဟုတ်သော အက္ခရာ အနည်းဆုံး ၁လုံးပါရမည်။</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">ဆင်းမ်ကဒ်၏ လျှို့ဝှက်နံပါတ် မှားနေပါသည်၊ သင့်တွင် %d ခါ ကြိုးစားခွင့် ကျန်ပါသေးသည်။</item>
+        <item quantity="one">"ဆင်းမ်ကဒ်၏ လျှို့ဝှက်နံပါတ် မှားနေပါသည်၊ သင်၏ စက်ပစ္စည်းကို သော့ဖွင့်ရန်  ဖုန်းလိုင်းဌာနသို့ မဆက်သွယ်မီ သင့်တွင် %d ခါ ကြိုးစားခွင့် ကျန်ပါသေးသည်။"</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d အပလီကေးရှင်းများသည် အကြောင်းကြားချက်များကို ဖတ်နိုင်သည်။</item>
+        <item quantity="one">%d အပလီကေးရှင်းသည် အကြောင်းကြားချက်များကို ဖတ်နိုင်သည်။</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">%d app အခြေအနေများကို စီမံပေးရန်</item>
+        <item quantity="one">%d app အခြေအနေများကို စီမံပေးရန်</item>
+    </plurals>
+</resources>

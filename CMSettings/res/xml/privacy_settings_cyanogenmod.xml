@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/privacy_settings_cyanogenmod_title"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference android:title="@string/privacy_guard_manager_title" android:key="privacy_guard_manager" android:summary="@string/privacy_guard_manager_summary" android:fragment="com.android.cyanogenmod.settings.privacyguard.PrivacyGuardManager" />
+    <PreferenceScreen android:title="@string/blacklist_title" android:key="blacklist" android:summary="@string/blacklist_summary" android:fragment="com.android.cyanogenmod.settings.blacklist.BlacklistSettings" />
+    <Preference android:title="@string/whisperpush_title" android:key="whisperpush" android:summary="@string/whisperpush_summary">
+        <intent android:targetPackage="org.whispersystems.whisperpush" android:targetClass="org.whispersystems.whisperpush.ui.PreferenceActivity" />
+    </Preference>
+    <PreferenceScreen android:title="@string/anonymous_statistics_title" android:key="cmstats" android:summary="@string/anonymous_statistics_summary" android:fragment="com.android.cyanogenmod.settings.cmstats.AnonymousStats" />
+</PreferenceScreen>

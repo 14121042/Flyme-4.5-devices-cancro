@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="backlight_timeout_time">
+        <item quantity="other">%d секунди</item>
+        <item quantity="one">%d секунда</item>
+        <item quantity="few">%d секунде</item>
+    </plurals>
+    <plurals name="app_ops_count">
+        <item quantity="other">%d пута</item>
+        <item quantity="one">једном</item>
+        <item quantity="few">%d пута</item>
+    </plurals>
+    <plurals name="qs_tiles_summary">
+        <item quantity="other">%d плочице подешене</item>
+        <item quantity="one">1 плочица подешена</item>
+        <item quantity="few">%d плочице подешене</item>
+    </plurals>
+    <plurals name="show_dev_countdown_cm">
+        <item quantity="other">Сада си %1$d корака далеко од омогућавања развојних опција.</item>
+        <item quantity="one">Сада си %1$d корак далеко од омогућавања развојних опција.</item>
+        <item quantity="few">Сада си %1$d корака далеко од омогућавања развојних опција.</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Треба да обавите још %1$d корака да бисте постали програмер.</item>
+        <item quantity="one">Треба да обавите још %1$d корак да бисте постали програмер.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Лозинка мора да садржи најмање %d слова.</item>
+        <item quantity="one">Лозинка мора да садржи најмање 1 слово.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Лозинка мора да садржи најмање %d мала(их) слова.</item>
+        <item quantity="one">Лозинка мора да садржи најмање 1 мало слово.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Лозинка мора да садржи најмање %d велика(их) слова.</item>
+        <item quantity="one">Лозинка мора да садржи најмање 1 велико слово.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Лозинка мора да садржи најмање %d цифре(ара).</item>
+        <item quantity="one">Лозинка мора да садржи најмање 1 цифру.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Лозинка мора да садржи најмање %d посебна(их) симбола.</item>
+        <item quantity="one">Лозинка мора да садржи најмање 1 посебан симбол.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Лозинка мора да садржи најмање %d знак(ов)а који нису слова.</item>
+        <item quantity="one">Лозинка мора да садржи најмање 1 знак који није слово.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Нетачан SIM PIN кôд. Имате још %d покушаја.</item>
+        <item quantity="one">Нетачан SIM PIN кôд. Имате још %d покушај, а онда морате да контактирате мобилног оператера да бисте откључали уређај.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">Апликације (%d) могу да читају обавештења</item>
+        <item quantity="one">%d апликација може да чита обавештења</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">%d апликације(а) пружају услове</item>
+        <item quantity="one">%d апликација пружа услове</item>
+    </plurals>
+</resources>

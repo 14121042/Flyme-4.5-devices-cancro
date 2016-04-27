@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="backlight_timeout_time">
+        <item quantity="other">%d secondes</item>
+        <item quantity="one">%d seconde</item>
+    </plurals>
+    <plurals name="app_ops_count">
+        <item quantity="other">%d fois</item>
+        <item quantity="one">une fois</item>
+    </plurals>
+    <plurals name="qs_tiles_summary">
+        <item quantity="other">%d raccourcis configurés</item>
+        <item quantity="one">1 raccourci configuré</item>
+    </plurals>
+    <plurals name="show_dev_countdown_cm">
+        <item quantity="other">"Vous êtes maintenant à %1$d étapes de l'activation des paramètres de développement."</item>
+        <item quantity="one">"Vous êtes maintenant à %1$d étape de l'activation des paramètres de développement. Vous êtes maintenant à %1$d étapes de l'activation des paramètres de développement."</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Plus que %1$d étapes pour devenir un développeur.</item>
+        <item quantity="one">Plus que %1$d étape pour devenir un développeur.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Le mot de passe doit comporter au moins %d lettres.</item>
+        <item quantity="one">Le mot de passe doit comporter au moins une lettre.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Le mot de passe doit comporter au moins %d lettres minuscules.</item>
+        <item quantity="one">Le mot de passe doit comporter au moins une lettre minuscule.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Le mot de passe doit comporter au moins %d lettres majuscules.</item>
+        <item quantity="one">Le mot de passe doit comporter au moins une lettre majuscule.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Le mot de passe doit comporter au moins %d chiffres.</item>
+        <item quantity="one">Le mot de passe doit comporter au moins un chiffre.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Le mot de passe doit comporter au moins %d caractères spéciaux.</item>
+        <item quantity="one">Le mot de passe doit comporter au moins un caractère spécial.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Le mot de passe doit comporter au moins %d caractères autres que des lettres.</item>
+        <item quantity="one">"Le mot de passe doit comporter au moins un caractère autre qu'une lettre."</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Code PIN de la carte SIM incorrect. Il vous reste %d tentatives.</item>
+        <item quantity="one">Code PIN de la carte SIM incorrect. Il vous reste %d tentative. Après cela, vous devrez contacter votre opérateur pour déverrouiller votre appareil.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d applications peuvent lire les notifications.</item>
+        <item quantity="one">%d application peut lire les notifications.</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">%d applications fournissent des conditions.</item>
+        <item quantity="one">%d application fournit des conditions.</item>
+    </plurals>
+</resources>
